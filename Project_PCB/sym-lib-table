@@ -3,5 +3,4 @@
   (lib (name "RT9080-33GJ5")(type "KiCad")(uri "${KIPRJMOD}/RT9080-33GJ5/2025-05-07_10-35-02.kicad_sym")(options "")(descr ""))
   (lib (name "MCP73831")(type "KiCad")(uri "${KIPRJMOD}/MCP73831/2025-05-07_14-36-46.kicad_sym")(options "")(descr ""))
   (lib (name "SMF05C")(type "KiCad")(uri "${KIPRJMOD}/SMF05C_TCT/2025-05-07_14-58-12.kicad_sym")(options "")(descr ""))
-  (lib (name "MAX17048G")(type "KiCad")(uri "${KIPRJMOD}/MAX17048G/2025-05-07_16-08-57.kicad_sym")(options "")(descr ""))
 )
