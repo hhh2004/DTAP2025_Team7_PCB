@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD-BZPN-1705
+D Sound transducer: piezo signaller; without built-in generator
+K
+F https://www.tme.eu/Document/d20c3f3a1176d2b905cb0109d652cbcc/ld-bzpn-1705.pdf
+$ENDCMP
+#
+#End Doc Library
